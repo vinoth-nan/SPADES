@@ -1,4 +1,4 @@
-# SPADES: Official Pytorch implementation (work in progress)
+# Pytorch implementation of global magnitude pruning (work in progress)
 
 This repository is an implementation of algorithms for training sparse networks and unstructured pruning.
 
